@@ -55,5 +55,14 @@ body {
     background-color: #0056b3;
   }
   
+  h1 {
+    padding: 50px;
+  }
+
+  img {
+    left: 50px;
+    height: auto;
+    width: 20%;
+  }
 
 
